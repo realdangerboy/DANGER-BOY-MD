@@ -1,4 +1,4 @@
-  # ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠
+  # 𝗗𝗔𝗡𝗚𝗘𝗥-𝗕𝗢𝗬-𝗠𝗗
   <b>Version -> 1.0.0</b>
    <a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a><a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a>
 <p align="center"> 

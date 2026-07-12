@@ -1,4 +1,5 @@
   # ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠
+  <b>Version -> 1.0.0</b>
    <a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a><a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a>
 <p align="center"> 
 <u>⚡ ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ᴄᴏᴅᴇᴅ ʙʏ Dᴬᴺᴳᴱᴿ Bᴼᵞ 😈 ⚡</u>
@@ -17,20 +18,10 @@
 
 ## ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Danger-Boy-MD/Danger-Boy-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
- OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Danger-Boy-MD/Danger-Boy-MD)**
-9. **All Tutorials Are `COMING SOON`**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/realdangerboy/DANGER-BOY-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+2. **Deploy on [`Optiklink`](https://dashboard.heroku.com/new?template=https://github.com/Danger-Boy-MD/Danger-Boy-MD)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ ɪs ᴀ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ. 
 
@@ -51,8 +42,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Danger-Boy-MD)
-<b>Version -> 1.0.0</b>
+### Please Give One Star ✨
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

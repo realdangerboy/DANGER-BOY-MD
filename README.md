@@ -1,48 +1,65 @@
- #  𝗗𝗔𝗡𝗚𝗘𝗥-𝗕𝗢𝗬-𝗠𝗗
-  <b>Version -> 1.0.0</b>
-   <a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a><a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a>
-<p align="center"> 
-<u>ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ᴄᴏᴅᴇᴅ ʙʏ</u>
-</p>
-<p align="center">
-<img src="https://i.ibb.co/s9p1nDmQ/file-0000000071d47207bdd6718bcaf9913d.png"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹+ᴹᴰ⎠⎠__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DANGER+BOY;RELEASED+DATE+04%2F11%2F2024." alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DANGER_BOY-red.svg?style=for-the-badge&logo=github"></a>
+🤖 DANGER-BOY-MD
 
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <img src="https://i.ibb.co/s9p1nDmQ/file-0000000071d47207bdd6718bcaf9913d.png" width="300">
+</p><p align="center">
+  <b>Multi-Device WhatsApp User Bot</b><br>
+  Version <b>1.0.0</b>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=DANGER-BOY-MD;Multi-Device+WhatsApp+Bot;English+%26+Español+Support;Fast+•+Simple+•+Powerful">
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Creator-DANGER_BOY-red?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>---
 
+✨ Features
 
-## ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ Deployment Methods
+- 🌐 English & Español Language Support
+- 🤖 Multi-Device WhatsApp Bot
+- 🛡️ Group Anti-Link Protection
+- ⚡ Fast & Lightweight
+- 🔌 Easy Plugin System
+- 👮 Admin Tools
+- 🎮 Fun Commands
+- 📥 Media Downloader
+- 🎵 Audio & Video Features
+- 🔄 Regular Updates
+
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/realdangerboy/DANGER-BOY-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2. **Deploy on [`Optiklink`](https://dashboard.heroku.com/new?template=https://github.com/Danger-Boy-MD/Danger-Boy-MD)**
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+🚀 Deployment
 
-⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ ɪs ᴀ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ. 
+1. Fork Repository
 
-      DANGER-BOY𖧹MD Whatsapp Bot Is An Easy To Use Whatsapp Robot
+⭐ Fork this repository first.
 
+https://github.com/realdangerboy/DANGER-BOY-MD/fork
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+2. Deploy
 
-      ⚠️ We Are Not Responsible For Any Inconvenience Caused By Your Mistakes!
-  
-## 
+Deploy using your preferred platform.
 
-- *⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use ⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹ᴹᴰ⎠⎠ at your own risk by keeping this warning in mind.*
+(Replace this with your actual deployment link.)
 
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+⚠️ Disclaimer
 
+- This project is not affiliated with WhatsApp Inc.
+- Improper use of automation may result in your WhatsApp account being restricted or banned.
+- You are solely responsible for how you use this project.
 
-### Please Give One Star ✨
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+❤️ Support
 
+If you like this project, please consider giving it a ⭐ Star.
+
+It helps the project grow and motivates future updates.
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Danger Boy</b>
+</p>

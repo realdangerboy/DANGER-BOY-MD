@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ **𝘿𝘼𝙉𝙂𝙀𝙍-𝘽𝙊𝙔-𝙈𝘿** ⚡
+#   **𝘿𝘼𝙉𝙂𝙀𝙍-𝘽𝙊𝙔-𝙈𝘿** 
 
 <img src="https://i.ibb.co/s9p1nDmQ/file-0000000071d47207bdd6718bcaf9913d.png" width="320"/>
 

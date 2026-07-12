@@ -2,7 +2,7 @@
   <b>Version -> 1.0.0</b>
    <a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a><a><img src='https://i.imgur.com/a/NWgxifb.gif'/></a>
 <p align="center"> 
-<u>⚡ ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ᴄᴏᴅᴇᴅ ʙʏ Dᴬᴺᴳᴱᴿ Bᴼᵞ 😈 ⚡</u>
+<u>ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ᴄᴏᴅᴇᴅ ʙʏ</u>
 </p>
 <p align="center">
 <img src="https://i.ibb.co/s9p1nDmQ/file-0000000071d47207bdd6718bcaf9913d.png"/>       

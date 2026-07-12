@@ -5,7 +5,7 @@
 <u>⚡ ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ᴄᴏᴅᴇᴅ ʙʏ Dᴬᴺᴳᴱᴿ Bᴼᵞ 😈 ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/e72obf.jpeg"/>       
+<img src="https://i.ibb.co/s9p1nDmQ/file-0000000071d47207bdd6718bcaf9913d.png"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__⎝⎝ᴰᴬᴺᴳᴱᴿ𖡻ʙᴏʏ𖧹+ᴹᴰ⎠⎠__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DANGER+BOY;RELEASED+DATE+04%2F11%2F2024." alt="Typing SVG" /></a>
 </p> 

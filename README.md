@@ -37,35 +37,16 @@ Version 1.0.0
 
 ---
 
-📱 Termux Installation
+## 📱 Termux Installation
 
-Update Packages
-
+```bash
 pkg update && pkg upgrade -y
-
-Install Required Packages
-
 pkg install git nodejs ffmpeg imagemagick yarn -y
-
-Clone Repository
-
 git clone https://github.com/realdangerboy/DANGER-BOY-MD.git
-
-Open Repository
-
 cd DANGER-BOY-MD
-
-Install Dependencies
-
 yarn install
-
-or
-
-npm install
-
-Start Bot
-
 npm start
+```
 
 ---
 

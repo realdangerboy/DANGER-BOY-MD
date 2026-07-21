@@ -374,6 +374,19 @@ module.exports = sock = async (sock, m, chatUpdate, store) => {
             }
         }
 
+        // ── Antistatus check — runs on every group message (including media) ──
+        if (m.isGroup) {
+            try {
+                const { checkAndActStatus } = require('./library/antilink/antistatus');
+                const acted = await checkAndActStatus(sock, m, {
+                    isAdmins, isBotAdmins, tc: s => s
+                });
+                if (acted) return; // stop processing if antistatus blocked it
+            } catch (e) {
+                console.error('antistatus check:', e.message);
+            }
+        }
+
 
 
         if (isCmd) {

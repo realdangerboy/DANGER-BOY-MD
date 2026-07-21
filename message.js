@@ -348,34 +348,37 @@ module.exports = sock = async (sock, m, chatUpdate, store) => {
             }
         }
 
-        // ── Antilink suite check — runs on every group text message ──
-        if (m.isGroup && !isCmd && body) {
-            const tinyCapMap = {
-                a:'ᴀ',b:'ʙ',c:'ᴄ',d:'ᴅ',e:'ᴇ',f:'ꜰ',g:'ɢ',h:'ʜ',
-                i:'ɪ',j:'ᴊ',k:'ᴋ',l:'ʟ',m:'ᴍ',n:'ɴ',o:'ᴏ',p:'ᴘ',
-                q:'ǫ',r:'ʀ',s:'s',t:'ᴛ',u:'ᴜ',v:'ᴠ',w:'ᴡ',x:'x',
-                y:'ʏ',z:'ᴢ',' ':' ','.':'.',':':':','!':'!','-':'-',
-                '0':'0','1':'1','2':'2','3':'3','4':'4',
-                '5':'5','6':'6','7':'7','8':'8','9':'9'
-            };
-            const tcAntilink = str => str.toLowerCase().split('').map(c => tinyCapMap[c] || c).join('');
-
-            try {
-                const { checkAndAct } = require('./library/antilink/handler');
-                const features = ['antisexlink', 'antilink', 'antigp', 'antiyt', 'antitg', 'antiig', 'antifb', 'antitk'];
-                for (const feature of features) {
-                    const acted = await checkAndAct(feature, sock, m, {
-                        body, sender: m.sender, isAdmins, isBotAdmins, tc: tcAntilink, groupAdmins
-                    });
-                    if (acted) return; // stop processing further once one feature handles it
-                }
-            } catch (e) {
-                console.error('antilink check:', e.message);
-            }
-        }
-
-        // ── Antistatus check — runs on every group message (including media) ──
+        // ── Antilink suite check — HIGH PRIORITY, runs on EVERY group message ──
+        // IMPORTANT: This runs FIRST, before commands, to catch violations immediately
         if (m.isGroup) {
+            // Check text messages
+            if (body && !isCmd) {
+                const tinyCapMap = {
+                    a:'ᴀ',b:'ʙ',c:'ᴄ',d:'ᴅ',e:'ᴇ',f:'ꜰ',g:'ɢ',h:'ʜ',
+                    i:'ɪ',j:'ᴊ',k:'ᴋ',l:'ʟ',m:'ᴍ',n:'ɴ',o:'ᴏ',p:'ᴘ',
+                    q:'ǫ',r:'ʀ',s:'s',t:'ᴛ',u:'ᴜ',v:'ᴠ',w:'ᴡ',x:'x',
+                    y:'ʏ',z:'ᴢ',' ':' ','.':'.',':':':','!':'!','-':'-',
+                    '0':'0','1':'1','2':'2','3':'3','4':'4',
+                    '5':'5','6':'6','7':'7','8':'8','9':'9'
+                };
+                const tcAntilink = str => str.toLowerCase().split('').map(c => tinyCapMap[c] || c).join('');
+
+                try {
+                    const { checkAndAct } = require('./library/antilink/handler');
+                    const features = ['antisexlink', 'antilink', 'antigp', 'antiyt', 'antitg', 'antiig', 'antifb', 'antitk'];
+                    for (const feature of features) {
+                        const acted = await checkAndAct(feature, sock, m, {
+                            body, sender: m.sender, isAdmins, isBotAdmins, tc: tcAntilink, groupAdmins
+                        });
+                        if (acted) return; // stop processing further once one feature handles it
+                    }
+                } catch (e) {
+                    console.error('antilink check:', e.message);
+                }
+            }
+
+            // ── Antistatus check — runs on EVERY group message (including media) ──
+            // IMPORTANT: This also runs FIRST for media messages
             try {
                 const { checkAndActStatus } = require('./library/antilink/antistatus');
                 const acted = await checkAndActStatus(sock, m, {

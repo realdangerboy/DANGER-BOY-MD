@@ -177,11 +177,6 @@ const update = {
             edit: statusMsg.key
         });
 
-        const changelog = readLatestChangelog();
-        if (changelog) {
-            await sock.sendMessage(m.chat, { text: changelog }, { quoted: brandedQ });
-        }
-
         setTimeout(() => process.exit(1), 1000);
     }
 };
